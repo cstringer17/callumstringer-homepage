@@ -1,4 +1,9 @@
-# callumstringer-homepage
+# Callumstringer-Homepage
+
+### Project Info
+
+## Hosting
+
 
 ## Project setup
 ```

@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <homepageblock></homepageblock>
+    <homepageblock class="homepageblock"></homepageblock>
   </div>
 </template>
 
@@ -22,5 +22,8 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+.homepageblock{
+  top: 50%;
 }
 </style>
