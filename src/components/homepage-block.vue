@@ -10,6 +10,9 @@
     <a href="https://github.com/cstringer17">
       <font-awesome-icon :icon="[ 'fab', 'github' ]" size="2x" />
     </a>
+ <router-link to="/dark">dark
+ </router-link>
+
   </div>
 </template>
 
